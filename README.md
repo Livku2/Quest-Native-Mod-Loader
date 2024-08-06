@@ -9,7 +9,7 @@ A simple mod loader / patcher for quest
 - [x] Full Package List
 - [x] Game Saves
 - [x] Game Save Installer
-- [x] Simple Smali Injection
+- [x] Simple Smali Injection (Requires Java)
 - [ ] Custom Mod Support
 - [ ] QMod support (Maybe)
 - [ ] Runtime Injection
